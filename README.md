@@ -12,7 +12,7 @@ localhost/Bootstrap/index.php/Welcome/home
 # Akses Admin
 localhost/Bootstrap/index.php/Welcome
 
-#Warning!!!
+# Warning!!!
 Xampp menggunakan versi php 5/7
 menggunakan CRUD 1.64
 CodeIgniter 3.1.11
