@@ -14,6 +14,6 @@ localhost/Bootstrap/index.php/Welcome
 
 # Warning!!!
 Kalau mau menjalankan webnya pakai :
-Xampp versi php 5/7
-CRUD 1.64
-CodeIgniter 3.1.11
+Xampp versi php 5/7 |
+CRUD 1.64 |
+CodeIgniter 3.1.11 |
